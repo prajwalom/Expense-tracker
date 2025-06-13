@@ -30,7 +30,7 @@ To explore this project locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/prajwalom/Expense-tracker.git] (https://github.com/prajwalom/Expense-tracker.git)
+    git clone https://github.com/prajwalom/Expense-tracker.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
@@ -45,11 +45,11 @@ To explore this project locally:
 
 ## Live Demo
 
-Experience the live application here: [expense-tracker-lovat-alpha-24.vercel.app](https://expense-tracker-lovat-alpha-24.vercel.app)
+Experience the live application here: https://expense-tracker-lovat-alpha-24.vercel.app
 
 ## Connect with Me
 
 * **GitHub:** [prajwalom]  (https://github.com/prajwalom)
-* **LinkedIn** { https://linkedin/in/prajwal-om/ }
+* **LinkedIn** { https://linkedin.com/in/prajwal-om/ }
 
 ---
